@@ -12,8 +12,7 @@ const App = () => {
 
             <BrowserRouter>
                 <Header />
-                <br />
-                <br />
+                <img src="../Img/bkgroundIMG.jpg" alt="" id="bgroundImg"></img>
                 <div className="container">
                     <Route path="/" exact component={AboutMe} />
                     <Route path="/portfolio" exact component={Project} />

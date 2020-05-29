@@ -1,0 +1,145 @@
+
+html, body {
+    height: 100%;
+}
+
+nav{
+    background-color: none;
+}
+
+#credit{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    font-size: 10%;
+}
+
+html {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 150%;
+    line-height: 1.4;
+}
+
+body {
+    margin: 0 !important;
+  }
+  
+.mainWrap{
+    background-color: rgb(92, 92, 92);
+    height: 100vh;
+    overflow: auto;
+    width: 100%;
+    padding: 0 !important;
+}
+
+#footer_content{
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+}
+
+#bgroundImg{
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1000;
+}
+
+.mainContents{
+    background-color:rgba(27, 27, 27, 0.7);
+    color: white;
+    position: relative;
+    padding: 1rem;
+}
+
+.MainHeader{
+    position: relative;
+    height: 100vh;
+    display: block;
+    width: 70%;
+    padding-top: 30%;
+    margin: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    color: white;
+}
+
+.portfolioSec{
+    width: 100vw;
+    min-height: 100vh;
+    max-width: 100%;
+}
+
+.ProjSec{
+    min-height: 300px;
+    margin-left: 2px;
+}
+
+.projsBtn{
+    min-width: 200px;
+    min-height: 200px;
+    max-width: 400px;
+    max-height: 200px;
+    padding:0;
+    margin: 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.description{
+    margin: auto;
+}
+
+.center_section{
+    width: 100vw;
+    min-height: 100vh;
+}
+
+.projs{
+    min-width: 100%;
+    
+}
+
+.portfolioSec{
+    margin:auto;
+    max-width: 70%;
+}
+
+.body_header{
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+    text-align: left;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-left: 0;
+}
+
+.aboutMe{
+    max-width: 70%;
+    margin: auto;
+    max-height: inherit;
+}
+
+.projpic{
+    min-width: 100%;
+    height: 200px;
+    width: 400px;
+}
+
+.projname{
+    z-index: 1;
+    float: left;
+    position: relative;
+    bottom: 60px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #4aaaa5;
+    color: white;
+    min-width: 100%;
+    text-align: center;
+}
