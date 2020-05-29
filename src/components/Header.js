@@ -4,7 +4,7 @@ import React from "react"
 const Header = () => {
     return (
         <div>
-            <nav className="navbar navbar-light  navbar-expand-md">
+            <nav className="navbar navbar-light navbar-expand-md">
                 <a class="navbar-brand" href="/">
                     Eric Mo
             </a>
@@ -14,7 +14,7 @@ const Header = () => {
                 </button>
                 <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div className="navbar-nav">
-                        <a className="nav-item nav-link active" href="/portfolio">Portfolio</a>
+                        <a className="nav-item nav-link" href="/portfolio">Portfolio</a>
                         <a className="nav-item nav-link" href="/resume">Resume</a>
 
                     </div>
