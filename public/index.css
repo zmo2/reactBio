@@ -84,7 +84,7 @@ body {
 .projsBtn{
     min-width: 200px;
     min-height: 200px;
-    max-width: 400px;
+    max-width: 300px;
     max-height: 200px;
     padding:0;
     margin: 0;
@@ -94,6 +94,7 @@ body {
 
 .description{
     margin: auto;
+    
 }
 
 .center_section{
@@ -129,7 +130,7 @@ body {
 .projpic{
     min-width: 100%;
     height: 200px;
-    width: 400px;
+    width: 300px;
 }
 
 .projname{
@@ -143,4 +144,27 @@ body {
     color: white;
     min-width: 100%;
     text-align: center;
+}
+
+.projDesc{
+    margin: 0;
+    border-width: 0;
+    padding: 0;
+    color: white;
+    font-size: 15px;
+}
+
+.descBox{
+    margin-top: 15px;
+}
+
+.fullWidth{
+    width: 100vw;
+}
+
+.descBreak{
+    font-size: 5px;
+    padding: 0;
+    margin: 0;
+    height: 10px
 }

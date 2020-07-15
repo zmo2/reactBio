@@ -3,11 +3,11 @@ import React from "react"
 
 const Header = () => {
     return (
-        <div>
+        <div className="header">
             <nav className="navbar navbar-light navbar-expand-md">
                 <a class="navbar-brand" href="/">
-                    Eric Mo
-            </a>
+                    Home
+                </a>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
                     aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
