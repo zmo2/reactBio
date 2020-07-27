@@ -20,10 +20,10 @@ const Project = () => {
                         <p className="projDesc">Search through thousands in employee directory for name, dob, phone number or email which dynamically display results instantly</p>
                         <p className="descBreak" ></p>
                         <a href="https://employee-directory-react0001.herokuapp.com/" target="_blank">
-                            <p className="projDesc">employee-directory-react0001.herokuapp.com/</p>
+                            <button className="projBtn">App Link</button>
                         </a>
                         <a href="https://github.com/zmo2/EmployeeDirectoryReact" target="_blank">
-                            <p className="projDesc">github.com/zmo2/EmployeeDirectoryReact</p>
+                            <button className="projBtn">GitHub Link</button>
                         </a>
                     </div>
                 </div>
@@ -42,10 +42,10 @@ const Project = () => {
                         <p className="projDesc">A community for developers aiming to make discussions and collaborations easier</p>
                         <p className="descBreak" ></p>
                         <a href="https://gitcomm-it.herokuapp.com/" target="_blank">
-                            <p className="projDesc">gitcomm-it.herokuapp.com/</p>
+                            <button className="projBtn">App Link</button>
                         </a>
                         <a href="https://github.com/zmo2/EmployeeDirectoryReact" target="_blank">
-                            <p className="projDesc">https://github.com/ZachBach/gitbook</p>
+                            <button className="projBtn">GitHub Link</button>
                         </a>
                     </div>
                 </div>
@@ -64,10 +64,10 @@ const Project = () => {
                         <p className="projDesc">An app to search for recipes to make drinks and save your favorite drinks</p>
                         <p className="descBreak" ></p>
                         <a href="https://guarded-everglades-88887.herokuapp.com/" target="_blank">
-                            <p className="projDesc">guarded-everglades-88887.herokuapp.com/</p>
+                            <button className="projBtn">App Link</button>
                         </a>
                         <a href="https://github.com/blu19/Cocktails-" target="_blank">
-                            <p className="projDesc">github.com/blu19/Cocktails-</p>
+                            <button className="projBtn">GitHub Link</button>
                         </a>
                     </div>
                 </div>
@@ -87,10 +87,10 @@ const Project = () => {
                         <p className="projDesc">An app that takes the current user location and provide weather information also allows user to search other locations. Previous searches are saved in local storage</p>
                         <p className="descBreak" ></p>
                         <a href="https://zmo2.github.io/weatherDashboard/" target="_blank">
-                            <p className="projDesc">zmo2.github.io/weatherDashboard/</p>
+                            <button className="projBtn">App Link</button>
                         </a>
                         <a href="https://github.com/zmo2/weatherDashboard" target="_blank">
-                            <p className="projDesc">github.com/zmo2/weatherDashboard</p>
+                            <button className="projBtn">GitHub Link</button>
                         </a>
                     </div>
                 </div>
@@ -110,10 +110,10 @@ const Project = () => {
                         <p className="projDesc">An app that allow users to search for books of interest, takes user location and makes music recommendations based on the book and weather results. This aims to recommend relevant new music to users.</p>
                         <p className="descBreak" ></p>
                         <a href="https://yechan96.github.io/bootcamp_project1/" target="_blank">
-                            <p className="projDesc">yechan96.github.io/bootcamp_project1/</p>
+                            <button className="projBtn">App Link</button>
                         </a>
                         <a href="https://github.com/yechan96/bootcamp_project1" target="_blank">
-                            <p className="projDesc">github.com/yechan96/bootcamp_project1</p>
+                            <button className="projBtn">GitHub Link</button>
                         </a>
                     </div>
                 </div>
@@ -133,10 +133,10 @@ const Project = () => {
                         <p className="projDesc">An app that generates a random password based on one or a combination of user choices: lower case, upper case, symbols, numbers.</p>
                         <p className="descBreak" ></p>
                         <a href="https://zmo2.github.io/password-generator/" target="_blank">
-                            <p className="projDesc">zmo2.github.io/password-generator/</p>
+                            <button className="projBtn">App Link</button>
                         </a>
                         <a href="https://github.com/zmo2/password-generator" target="_blank">
-                            <p className="projDesc">github.com/zmo2/password-generator</p>
+                            <button className="projBtn">GitHub Link</button>
                         </a>
                     </div>
                 </div>
