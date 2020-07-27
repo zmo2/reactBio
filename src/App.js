@@ -16,9 +16,8 @@ const App = () => {
                 <div className="fullWidth">
                     <Route path="/" exact component={AboutMe} />
                     <Route path="/portfolio" exact component={Project} />
-                    <Route path="/resume" exact component={Resume} />
+
                 </div>
-                <Footer />
             </BrowserRouter>
 
         </div>

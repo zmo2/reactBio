@@ -15,7 +15,7 @@ const Header = () => {
                 <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div className="navbar-nav">
                         <a className="nav-item nav-link" href="/portfolio">Portfolio</a>
-                        <a className="nav-item nav-link" href="/resume">Resume</a>
+                        <a className="nav-item nav-link" href="https://drive.google.com/file/d/1x2BZJB3FIsg1hKv2CLKiD5xvHbhuW880/view?usp=sharing" target="_blank">Resume</a>
                         <a className="nav-item nav-link" href="https://www.linkedin.com/in/eric-mo/" target="_blank">LinkedIn</a>
                         <a className="nav-item nav-link" href="https://github.com/zmo2" target="_blank">GitHub</a>
                     </div>
