@@ -26,7 +26,7 @@ const AboutMe = () => {
                         better. After the bootcamp, I am even more hooked in tech. I will continue to learn and plan to be part of "the next".
                         <br /><br />
                         <a href="https://reactbio0001.herokuapp.com/" target="_blank">
-                            <button className="projBtn">Personal Website</button>
+                            Personal Website
                         </a>
                     </p>
                 </div>
