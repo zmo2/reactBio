@@ -23,8 +23,11 @@ const AboutMe = () => {
                         <br /><br />
                         With years of experience in the finance industry, I saw many inefficiencies. I began picking up classes in
                         Python and data science, followed by a full stack web dev bootcamp. I believe finance and accounting can do
-                        better. At work, I collaborate with multiple internal and external parties to provide reports and analysis for senior management. I incorporate VBA and MySQL in these reports to greatly increase efficiency. Outside of work, I learned Javascript, MongoDB, Node.js, CSS, HTML, and Python. I want to keep growing so that I can have an impact in solving these inefficiencies.
-
+                        better. After the bootcamp, I am even more hooked in tech. I will continue to learn and plan to be part of "the next".
+                        <br /><br />
+                        <a href="https://reactbio0001.herokuapp.com/" target="_blank">
+                            <button className="projBtn">Personal Website</button>
+                        </a>
                     </p>
                 </div>
             </div>
